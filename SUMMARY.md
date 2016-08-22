@@ -4,8 +4,8 @@
 * [Contributors](CONTRIBUTORS.md)
 * [License](LICENSE.md)
 * PART 1: Understanding Julia
-   * [Printing](_chapters/04-ex1.md)
    * [The Setup](_chapters/03-ex0.md)
+   * [Printing](_chapters/04-ex1.md)
    * [Variables](_chapters/05-ex2.md)
    * [Types](_chapters/06-ex3.md)
    * [Collections](_chapters/07-ex4.md)
